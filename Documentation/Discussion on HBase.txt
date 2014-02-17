@@ -1,0 +1,16 @@
+HBase
+Documentation of HBase can be found on http://hbase.apache.org/book/book.html.
+I read their Data Model technique and based on that, I came up with the following issues.
+
+Questions:
+1. How to store RDF data in HBase tables?
+2. How to perform query on stored data?
+
+1. HBase supports column family-which can contain as many columns as necessary. Also we need not to specify the number of columns at schema definition stage. Therefore, we can simply create one generic column family which will store all the columns irrespective of their types. Assuming that we don't have any prior knowledge of RDF data we are going to store, we can introduce columns later on.
+Initially we can store each RDF tuples in three columns: subject, predicate and object. So each row will denote one tuple and can be uniquely identified by the ROWKEY attribute of HBase. Later on if we want to associate tuples having same subject, we have to modify a little bit. Instead of having separate predicate and object columns we have to merge them into one column. Then we can have as many predicate-object column as we want for each subject. The same logic can be used if we want to associate tuples having same predicate or same object.
+
+2. Let's take two examples- 
+a. Find a person whose name is "Joe" and tell me which company he works for.
+b. Find all the persons who works for Company "X" and give me their names.
+
+a. We will give "Scan" operation on HBase and look into column "person:name" for value "Joe". Then we will return the ROWKEY for all matches. Then again do Get on column "person:works-for" providing the ROWKEYs.
