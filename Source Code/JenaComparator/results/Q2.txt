@@ -1,0 +1,33 @@
+-------------------------------------------------------------------------------------------------------------
+| p                                                 | o                                                     |
+=============================================================================================================
+| <http://purl.uniprot.org/core/encodedBy>          | <http://sce.umkc.edu/#_5136475A5834004>               |
+| <http://purl.uniprot.org/core/created>            | "2011-06-28"^^<http://www.w3.org/2001/XMLSchema#date> |
+| <http://purl.uniprot.org/core/version>            | "22"^^<http://www.w3.org/2001/XMLSchema#int>          |
+| <http://purl.uniprot.org/core/attribution>        | <http://sce.umkc.edu/#_5136475A583400C>               |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/keywords/181>                |
+| <http://purl.uniprot.org/core/citation>           | <http://purl.uniprot.org/citations/15165820>          |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/go/0006351>                  |
+| <http://purl.uniprot.org/core/annotation>         | <http://sce.umkc.edu/#_5136475A5834005>               |
+| <http://purl.uniprot.org/core/mnemonic>           | "001R_FRG3G"                                          |
+| <http://purl.uniprot.org/core/annotation>         | <http://sce.umkc.edu/#_5136475A5834007>               |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/go/0046782>                  |
+| <http://purl.uniprot.org/core/attribution>        | <http://sce.umkc.edu/#_5136475A583400E>               |
+| <http://purl.uniprot.org/core/modified>           | "2011-07-27"^^<http://www.w3.org/2001/XMLSchema#date> |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/keywords/10>                 |
+| <http://purl.uniprot.org/core/existence>          | <http://purl.uniprot.org/core/Predicted_Existence>    |
+| <http://purl.uniprot.org/core/reviewed>           | true                                                  |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/go/0006355>                  |
+| <http://purl.uniprot.org/core/recommendedName>    | <http://sce.umkc.edu/#_5136475A5834003>               |
+| <http://purl.uniprot.org/core/sequence>           | <http://purl.uniprot.org/isoforms/Q6GZX4-1>           |
+| <http://www.w3.org/2000/01/rdf-schema#seeAlso>    | <http://purl.uniprot.org/protclustdb/CLSP2511514>     |
+| <http://purl.uniprot.org/core/attribution>        | <http://sce.umkc.edu/#_5136475A583400A>               |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/keywords/1019>               |
+| <http://www.w3.org/2000/01/rdf-schema#seeAlso>    | <http://purl.uniprot.org/embl-cds/AAT09660.1>         |
+| <http://www.w3.org/2000/01/rdf-schema#seeAlso>    | <http://purl.uniprot.org/interpro/IPR007031>          |
+| <http://purl.uniprot.org/core/annotation>         | <http://purl.uniprot.org/annotation/PRO_0000410512>   |
+| <http://www.w3.org/2000/01/rdf-schema#seeAlso>    | <http://purl.uniprot.org/pfam/PF04947>                |
+| <http://purl.uniprot.org/core/organism>           | <http://purl.uniprot.org/taxonomy/654924>             |
+| <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> | <http://purl.uniprot.org/core/Protein>                |
+| <http://purl.uniprot.org/core/classifiedWith>     | <http://purl.uniprot.org/keywords/805>                |
+-------------------------------------------------------------------------------------------------------------

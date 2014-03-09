@@ -1,0 +1,1 @@
+The N-triple file couldn't be added to here as Github doesn't allow to upload files over 100MB in size. Therefore you have to add the file in 'uniprot.nt' folder to make the program work correctly. The file name expected to be uniport.n3. Change the name if it's not the same.
