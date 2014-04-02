@@ -31,8 +31,22 @@ public class RDFtoMongo {
                 {
                  System.out.println(l)   ;
                  String[] q=l.split(" ");
+                 q[2]=q[2].replace("\"", "");
+                 int x=q.length;
+                 if(x>4)
+                 {
+                  String s="";
+                  for(int i=2;i<x-1;i++)  
+                      s=s+q[i]+" ";
+                  s=s.replace("\"", "");
+                  BasicDBObject bob=new BasicDBObject("subject",q[0]).append("property", q[1]).append("object", s);
+                  c.insert(bob);
+                 }
+                 else
+                 {
                  BasicDBObject bob=new BasicDBObject("subject",q[0]).append("property", q[1]).append("object", q[2]);
                  c.insert(bob);
+                 }
                 }
         is.close();
         mc.close();
