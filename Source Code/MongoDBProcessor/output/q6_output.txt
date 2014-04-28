@@ -1,0 +1,54 @@
+Started: Mon Apr 28 17:39:47 CDT 2014
+Ended: Mon Apr 28 17:39:49 CDT 2014
+Duration: 0:02.376
+    _____________________________________________________________________________________
+    | x                                           | y                                    |
+    |====================================================================================|
+ 1. | <http://purl.uniprot.org/citations/15057824>| <http://purl.uniprot.org/core/author>|
+ 2. | <http://purl.uniprot.org/citations/15372022>| <http://purl.uniprot.org/core/author>|
+ 3. | <http://purl.uniprot.org/citations/15616553>| <http://purl.uniprot.org/core/author>|
+ 4. | <http://sce.umkc.edu/#_413041584937001>     | <http://purl.uniprot.org/core/author>|
+ 5. | <http://sce.umkc.edu/#_41304B414A38001>     | <http://purl.uniprot.org/core/author>|
+ 6. | <http://sce.umkc.edu/#_413142493833001>     | <http://purl.uniprot.org/core/author>|
+ 7. | <http://sce.umkc.edu/#_413155483836001>     | <http://purl.uniprot.org/core/author>|
+ 8. | <http://sce.umkc.edu/#_41344A353130001>     | <http://purl.uniprot.org/core/author>|
+ 9. | <http://sce.umkc.edu/#_41344A4B5638001>     | <http://purl.uniprot.org/core/author>|
+10. | <http://sce.umkc.edu/#_413453443530001>     | <http://purl.uniprot.org/core/author>|
+11. | <http://sce.umkc.edu/#_413454484538001>     | <http://purl.uniprot.org/core/author>|
+12. | <http://sce.umkc.edu/#_413454484539001>     | <http://purl.uniprot.org/core/author>|
+13. | <http://sce.umkc.edu/#_413454484630001>     | <http://purl.uniprot.org/core/author>|
+14. | <http://sce.umkc.edu/#_4134544C4433001>     | <http://purl.uniprot.org/core/author>|
+15. | <http://sce.umkc.edu/#_4134544E5138001>     | <http://purl.uniprot.org/core/author>|
+16. | <http://sce.umkc.edu/#_413549523937001>     | <http://purl.uniprot.org/core/author>|
+17. | <http://sce.umkc.edu/#_413549564335001>     | <http://purl.uniprot.org/core/author>|
+18. | <http://sce.umkc.edu/#_41364C504932001>     | <http://purl.uniprot.org/core/author>|
+19. | <http://sce.umkc.edu/#_413655303235001>     | <http://purl.uniprot.org/core/author>|
+20. | <http://sce.umkc.edu/#_413655343731001>     | <http://purl.uniprot.org/core/author>|
+21. | <http://sce.umkc.edu/#_41384D463335001>     | <http://purl.uniprot.org/core/author>|
+22. | <http://sce.umkc.edu/#_503231353737004>     | <http://purl.uniprot.org/core/author>|
+23. | <http://sce.umkc.edu/#_513042353639001>     | <http://purl.uniprot.org/core/author>|
+24. | <http://sce.umkc.edu/#_513131335331001>     | <http://purl.uniprot.org/core/author>|
+25. | <http://sce.umkc.edu/#_513131494537001>     | <http://purl.uniprot.org/core/author>|
+26. | <http://sce.umkc.edu/#_513133374337001>     | <http://purl.uniprot.org/core/author>|
+27. | <http://sce.umkc.edu/#_513141574635001>     | <http://purl.uniprot.org/core/author>|
+28. | <http://sce.umkc.edu/#_513142375331001>     | <http://purl.uniprot.org/core/author>|
+29. | <http://sce.umkc.edu/#_5131424C3332001>     | <http://purl.uniprot.org/core/author>|
+30. | <http://sce.umkc.edu/#_513142544A33001>     | <http://purl.uniprot.org/core/author>|
+31. | <http://sce.umkc.edu/#_513149585339001>     | <http://purl.uniprot.org/core/author>|
+32. | <http://sce.umkc.edu/#_51314C435334001>     | <http://purl.uniprot.org/core/author>|
+33. | <http://sce.umkc.edu/#_513151454637001>     | <http://purl.uniprot.org/core/author>|
+34. | <http://sce.umkc.edu/#_5131514D4133001>     | <http://purl.uniprot.org/core/author>|
+35. | <http://sce.umkc.edu/#_513231345235001>     | <http://purl.uniprot.org/core/author>|
+36. | <http://sce.umkc.edu/#_513238534538001>     | <http://purl.uniprot.org/core/author>|
+37. | <http://sce.umkc.edu/#_513249484437001>     | <http://purl.uniprot.org/core/author>|
+38. | <http://sce.umkc.edu/#_513249573139001>     | <http://purl.uniprot.org/core/author>|
+39. | <http://sce.umkc.edu/#_513259394B34001>     | <http://purl.uniprot.org/core/author>|
+40. | <http://sce.umkc.edu/#_513331514738001>     | <http://purl.uniprot.org/core/author>|
+41. | <http://sce.umkc.edu/#_513339305A35001>     | <http://purl.uniprot.org/core/author>|
+42. | <http://sce.umkc.edu/#_513339435737001>     | <http://purl.uniprot.org/core/author>|
+43. | <http://sce.umkc.edu/#_5133394C4931001>     | <http://purl.uniprot.org/core/author>|
+44. | <http://sce.umkc.edu/#_513341504D32001>     | <http://purl.uniprot.org/core/author>|
+45. | <http://sce.umkc.edu/#_513342363232001>     | <http://purl.uniprot.org/core/author>|
+46. | <http://sce.umkc.edu/#_51334A335534001>     | <http://purl.uniprot.org/core/author>|
+47. | <http://sce.umkc.edu/#_513353344237002>     | <http://purl.uniprot.org/core/author>|
+48. | <http://sce.umkc.edu/#_513436505437001>     | <http://purl.uniprot.org/core/author>|

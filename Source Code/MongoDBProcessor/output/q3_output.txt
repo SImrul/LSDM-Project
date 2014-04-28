@@ -1,0 +1,31 @@
+Started: Mon Apr 28 17:38:56 CDT 2014
+Ended: Mon Apr 28 17:38:58 CDT 2014
+Duration: 0:01.704
+    _____________________________________________________
+    | x                                           | y    |
+    |====================================================|
+ 1. | <http://purl.uniprot.org/citations/11448171>| "286"|
+ 2. | <http://purl.uniprot.org/citations/11831707>| "208"|
+ 3. | <http://purl.uniprot.org/citations/12202212>| "300"|
+ 4. | <http://purl.uniprot.org/citations/12350360>| "300"|
+ 5. | <http://purl.uniprot.org/citations/1381540> | "190"|
+ 6. | <http://purl.uniprot.org/citations/15165820>| "323"|
+ 7. | <http://purl.uniprot.org/citations/1846491> | "180"|
+ 8. | <http://purl.uniprot.org/citations/1926776> | "185"|
+ 9. | <http://purl.uniprot.org/citations/1962437> | "185"|
+10. | <http://purl.uniprot.org/citations/19900687>| "396"|
+11. | <http://purl.uniprot.org/citations/19954808>| "397"|
+12. | <http://purl.uniprot.org/citations/20633916>| "405"|
+13. | <http://purl.uniprot.org/citations/20947114>| "408"|
+14. | <http://purl.uniprot.org/citations/2219721> | "179"|
+15. | <http://purl.uniprot.org/citations/2219722> | "179"|
+16. | <http://purl.uniprot.org/citations/3201751> | "167"|
+17. | <http://purl.uniprot.org/citations/8030263> | "202"|
+18. | <http://purl.uniprot.org/citations/8291242> | "198"|
+19. | <http://purl.uniprot.org/citations/8525613> | "214"|
+20. | <http://purl.uniprot.org/citations/8806566> | "223"|
+21. | <http://purl.uniprot.org/citations/9356347> | "237"|
+22. | <http://purl.uniprot.org/citations/9581774> | "244"|
+23. | <http://purl.uniprot.org/citations/9601507> | "244"|
+24. | <http://sce.umkc.edu/#_5030434B3230002>     | "179"|
+25. | <http://sce.umkc.edu/#_503231303937002>     | "179"|
